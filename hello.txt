@@ -11,4 +11,4 @@ Hello,Ant! Hello,Git!
 Hello,Ant! Hello,Git!
 Hello,Ant! Hello,Git!
 Hello,Ant! Hello,Git!    master test
-Hello,Ant! Hello,Git!
+Hello,Ant! Hello,Git!    hot-fix test
